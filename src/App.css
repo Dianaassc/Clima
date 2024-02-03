@@ -1,0 +1,54 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fcfcfc; 
+  text-align: center;
+}
+
+.App {
+  margin: 20px;
+  padding: 20px;
+  background-color: #d6f0f8; 
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #f880c6; /* Gris medio */
+}
+
+label {
+  font-size: 18px;
+  margin-right: 10px;
+  color: #e65bf0; 
+}
+
+input {
+  padding: 8px;
+  font-size: 16px;
+  background-color: #baefff; 
+  border: 1px solid #333331; 
+  border-radius: 4px;
+}
+
+div {
+  margin-top: 20px;
+}
+
+h2 {
+  color: #db48ee; 
+}
+
+p {
+  font-size: 18px;
+  margin: 8px 0;
+  color: #a570e9; 
+}
+
+
+
+
+
+
+
